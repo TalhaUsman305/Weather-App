@@ -18,5 +18,5 @@ A simple weather app using HTML, CSS, JavaScript, and OpenWeatherMap API.
 2. Open `index.html` in browser
 3. Enter city & check weather
 ## 📸 Screenshot
-![App Preview](preview.png)
+![App Preview](preview.png.jpg)
 
